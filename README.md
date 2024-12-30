@@ -1,6 +1,6 @@
 # Como Organizar Sua Vida Financeira com Planilhas Inteligentes e IA
 
-Este repositório foi criado para ajudar pessoas a organizarem suas finanças pessoais de maneira eficiente, utilizando planilhas inteligentes e o poder da Inteligência Artificial (IA). Aqui, você encontrará exemplos práticos, ferramentas e recursos para melhorar sua gestão financeira.
+Este repositório foi criado para por a mão na massa utilizando planilhas e o poder da Inteligência Artificial (IA) para a aula "Como organizar sua vida Financeira com Planilhas Inteligentes e IA" da DIO. 
 
 ## Objetivo
 
@@ -8,6 +8,7 @@ O objetivo deste projeto é:
 - Auxiliar no controle financeiro pessoal ou familiar.
 - Automatizar tarefas financeiras repetitivas usando planilhas avançadas e IA.
 - Promover hábitos saudáveis de planejamento e economia.
+- Criar e praticar análises com planilhas.
 
 ## Conteúdo do Repositório
 
@@ -17,36 +18,14 @@ O objetivo deste projeto é:
 - Fórmulas pré-configuradas para cálculo de metas financeiras.
 
 ### 2. **Inteligência Artificial**
-- Scripts em Python para análise automática dos dados financeiros.
+- Scripts para análise automática dos dados financeiros.
 - Insights personalizados com base no seu histórico de gastos.
 - Recomendações sobre como otimizar suas finanças.
 
 ### 3. **Documentação**
-- Guia completo de uso das planilhas.
-- Tutoriais passo a passo para integrar planilhas ao uso de IA.
+- Guia básico de uso das planilhas.
 
-## Como Usar
 
-1. **Faça o download ou clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-
-2. **Configure o ambiente:**
-   - Certifique-se de ter o Python instalado (versão 3.8 ou superior).
-   - Instale as dependências listadas no arquivo `requirements.txt`:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
-3. **Abra as planilhas no Excel ou Google Sheets.**
-   - Personalize os campos conforme sua necessidade.
-
-4. **Execute os scripts de análise:**
-   - Para gerar insights financeiros:
-     ```bash
-     python analise_financeira.py
-     ```
 
 ## Exemplos
 
@@ -79,8 +58,8 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 ## Contato
 
 Se você tiver dúvidas ou sugestões, entre em contato:
-- **Email:** seu-email@dominio.com
-- **GitHub:** [seu-usuario](https://github.com/seu-usuario)
+- **Email:** panambiohun@gmail.com
+- **GitHub:** [Adriana](https://github.com/panambi)
 
 ---
 
