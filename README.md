@@ -12,17 +12,17 @@ O objetivo deste projeto é:
 
 ## Conteúdo do Repositório
 
-### 1. **Planilhas Inteligentes**
+### 1. **Planilhas Inteligentes** 💻
 - Modelos prontos para organizar entradas, saídas e calcular saldos.
 - Planilhas categorizadas para Alimentação, Transporte, Lazer, Saúde e mais.
 - Fórmulas pré-configuradas para cálculo de metas financeiras.
 
-### 2. **Inteligência Artificial**
+### 2. **Inteligência Artificial** 📚
 - Scripts para análise automática dos dados financeiros.
 - Insights personalizados com base no seu histórico de gastos.
 - Recomendações sobre como otimizar suas finanças.
 
-### 3. **Documentação**
+### 3. **Documentação** 🔍
 - Guia básico de uso das planilhas.
 
 
